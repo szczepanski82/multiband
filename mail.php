@@ -161,8 +161,9 @@ echo '<h2>Wiadomość wysłana :)</h2>';
 		
 	<div id="foot">
 		
+		<div class="footer">+48 111 111 111</div>
+		<div class="footer">+48 111 111 111</div>
 		<div class="footer">MultiBand</div>
-		<div class="footer">tel: 694 956 647</div>
 		<div class="footer">e-mail: info@multiband.pl</div>
 		
 	</div>
